@@ -16,5 +16,5 @@ main {
     background: white;
     min-height: 80hv;
     height: 60%;
-    background: linear-gradient(to right bottom, rgba(255, 255, 255, 70), rgba(255, 255, 255, 30))
+    background: linear-gradient(to right bottom, rgba(255, 255, 255, 70), rgba(255, 255, 255, 30));
 }
