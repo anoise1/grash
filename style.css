@@ -15,5 +15,5 @@ main {
     background: var(--tg-theme-section-bg-color);
     min-height: 80vh;
     width: 95%;
-    background: linear-gradient(to right bottom, rgba(red(var(--tg-theme-section-bg-color)), green(var(--tg-theme-section-bg-color)), blue(var(--tg-theme-section-bg-color)), 0.7), rgba(red(var(--tg-theme-section-bg-color)), green(var(--tg-theme-section-bg-color)), blue(var(--tg-theme-section-bg-color)), 0.3))
+    background: linear-gradient(to right bottom, rgba(255, 0, 0, 0.7), rgba(255, 0, 0, 0.3)l
 }
