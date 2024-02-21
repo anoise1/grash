@@ -6,7 +6,7 @@
 
 main {
     min-height: 100vh;
-    background: linear-gradient(to right top, #65dfc9, #6cdbed);
+    background: var(--tg-theme-bg-color);
     display: flex;
     justify-content: center;
 }
