@@ -6,15 +6,15 @@
 
 main {
     min-height: 100vh;
-    background: #000000;
+    background: linear-gradient(to right top, #365dfc9, #6cdbed;
     display: flex;
     align-items: center;
     justify-content: center;
 }
 
 .glass {
-    background: #ffffff;
-    width: 50%;
-    height: 25%;
-    background: linear-gradient(to right bottom, rgba(0, 32, 0, 70), rgba(0, 32, 0, 30))
+    background: white;
+    min-height: 80hv;
+    height: 60%;
+    background: linear-gradient(to right bottom, rgba(255, 255, 255, 70), rgba(255, 255, 255, 30))
 }
