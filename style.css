@@ -4,16 +4,21 @@
     box-sizing: border-box;
 }
 
+body {
+    font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+    color: #ffffff;
+    background-position: center;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-image: url('https://lh3.googleusercontent.com/pw/ABLVV86xTjHbUQFX_l2U_z1UjFhJWWfZ1LozOknOy6MmoAd_vGL9x2RJ5G5gKtv4Ii0jQocEnALIT34M_OhOLwGGzbFEf3YF19Q8JXQOLw-lm7yB8u7j6hF0UmBCTjRU3AdswspjuwwENAVx7S6I3OIJEp6-6A=w445-h965-s-no-gm?authuser=0');
+}
+
 #main {
     width: 100%;
     padding: 20px;
     text-align: center;
-}
-
-body {
-    font-family: -apple-system, BlinkMacSystemFont, sans-serif;
-    background: #000000;
-    color: #ffffff;
 }
 
 #glass {
@@ -22,7 +27,7 @@ body {
     background: rgba(32, 32, 32, 0.1);
     backdrop-filter: blur(10px);
     box-shadow: 0 0 20px rgba(255, 255, 255, 0.2);
-    z-index: 4;
+    width: calc(100% - 40px);
 }
 
 caption1 {
