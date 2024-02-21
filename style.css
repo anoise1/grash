@@ -13,8 +13,8 @@ main {
 }
 
 .glass {
-    background: var(--tg-theme-bg-color);
+    background: #000000;
     width: 50%;
     height: 25%;
-    background: linear-gradient(to right bottom, rgba(128, 128, 128, 70), rgba(128, 128, 128, 30))
+    background: linear-gradient(to right bottom, rgba(32, 32, 32, 70), rgba(32, 32, 32, 30))
 }
