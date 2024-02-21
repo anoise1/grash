@@ -16,5 +16,5 @@ main {
     background: var(--tg-theme-bg-color);
     width: 50%;
     height: 25%;
-    background: linear-gradient(to right bottom, rgba(10, 10, 10, 70), rgba(10, 10, 10, 30))
+    background: linear-gradient(to right bottom, rgba(128, 128, 128, 70), rgba(128, 128, 128, 30))
 }
