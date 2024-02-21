@@ -7,4 +7,13 @@
 main {
     min-height: 100vh;
     background: var(--tg-theme-bg-color);
+    display: flex;
+    justify-content: center;
+}
+
+.glass {
+    background: var(--tg-theme-section-bg-color);
+    min-height: 80vh;
+    width: 95%;
+    background: linear-gradient(to right bottom, rgba(red(var(--tg-theme-section-bg-color)), green(var(--tg-theme-section-bg-color)), blue(var(--tg-theme-section-bg-color)), 0.7), rgba(red(var(--tg-theme-section-bg-color)), green(var(--tg-theme-section-bg-color)), blue(var(--tg-theme-section-bg-color)), 0.3))
 }
