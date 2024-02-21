@@ -13,7 +13,6 @@ main {
 
 .glass {
     background: var(--tg-theme-bg-color);
-    min-height: 10vh;
-    width: 10%;
+    width: 50%;
     background: linear-gradient(to right bottom, rgb(from var(--tg-theme-section-bg-color) r g b / 75%), rgb(from var(--tg-theme-section-bg-color) r g b / 25%))
 }
