@@ -6,5 +6,5 @@
 }
 main {
     min-height: 100vh;
-    background: linear-gradient(to right top, #ff0000, var(--tg-theme-bg-color));
+    background: linear-gradient(to right top, var(--tg-theme-bg-color), #ff0000);
 }
