@@ -1,6 +1,6 @@
 let rootStyle = window.getComputedStyle(document.documentElement)
 let thColor = rootStyle.getPropertyValue("--th-theme-bg-color");
-if (thColor.charAt(0) == #) {
+if (thColor.charAt(0) == "#") {
     thColor = thColor.slice(1);
 }
 let r = parseInt(thColor.slice(0, 2), 16);
