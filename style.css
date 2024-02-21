@@ -6,7 +6,7 @@
 
 main {
     min-height: 100vh;
-    background: #0000FF;
+    background: linear-gradient(to right top, #65dfc9, #6cdbed);
     display: flex;
     justify-content: center;
 }
