@@ -6,7 +6,7 @@
 
 main {
     min-height: 100vh;
-    background: var(--tg-theme-bg-color);
+    background: #000000;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -16,5 +16,5 @@ main {
     background: var(--tg-theme-bg-color);
     width: 50%;
     height: 25%;
-    background: linear-gradient(to right bottom, rgb(from var(--tg-theme-section-bg-color) r g b / 75%), rgb(from var(--tg-theme-section-bg-color) r g b / 25%))
+    background: linear-gradient(to right bottom, rgba(10, 10, 10, 70), rgba(10, 10, 10, 30))
 }
