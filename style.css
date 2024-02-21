@@ -19,5 +19,6 @@ section {
     width: calc(100& - 100px);
     min-height: calc(100wh - 280px);
     min-height: 300px;
-    background: #ff0000;
+    background: rgba(255, 255, 255, 0.5);
+    box-shadow: 0 15px 35px rgba(255, 255, 255, 0.05);
 }
