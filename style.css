@@ -106,15 +106,15 @@ input {
     display: none;
 }
 
-    input:checked + label {
-        width: 200px;
-    }
+.card:hover {
+    width: 200px;
+}
 
-        input:checked + label .desription {
-            opacity: 1 !important;
-            transform: translateY(0) !important;
-        }
+.card:hover .description {
+    opacity: 1;
+    transform: translateY(0);
+}
 
-.card[for="c1"] {
+.card[id="c1"] {
     background-image: url('https://deadline.com/wp-content/uploads/2017/08/103_013r.jpg');
 }
