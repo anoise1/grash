@@ -106,11 +106,11 @@ input {
     display: none;
 }
 
-.card:hover {
+.card:active {
     width: 200px;
 }
 
-.card:hover .description {
+.card:active .description {
     opacity: 1;
     transform: translateY(0);
 }
